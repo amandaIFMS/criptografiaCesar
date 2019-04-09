@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Made with Thimble</title>
-  <link rel="stylesheet" href="CSS.CSS">
+  <link rel="stylesheet" href="public/CSS.CSS">
   <script src="https://www.gstatic.com/firebasejs/5.7.0/firebase.js"></script>
   <script src="Metodos.js"></script>
 </head>
