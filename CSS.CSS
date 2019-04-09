@@ -1,0 +1,119 @@
+body {
+  background-color: #c7c0c0;
+  padding: 25px 50px 50px 50px;
+  margin: 0px;
+  background-size: 100%;
+}
+
+ input{
+  background-color:rgb(134, 122, 122);
+  margin: 0px 0px 2px 0px;
+}
+.input{
+  width: 50px;
+}
+.preencha{
+  background-color:black;
+  padding: 10px;
+
+}
+.flex {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  padding: 0px 100px 0px 100px ;
+}
+.flex .input{
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+
+}
+
+label {
+  font-family: Arial;
+  flex: 1;
+  font-size: 12px;
+  text-align: justify;
+  /* flex-direction: row; */
+}
+
+
+
+.comeco {
+  text-align: center;
+}
+
+H1 {
+  font-family: Arial;
+  font-size: 34px;
+  text-align: center;
+  color: rgb(15, 14, 14);
+}
+
+.striped {
+  width: 100%;
+}
+
+
+/* label:nth-of-type(2) {
+  flex: 2;
+} */
+
+.pedido {
+  display: flex;
+}
+
+.legend {
+  font-family: Arial;
+  font-size: 18px;
+  text-align: center
+}
+
+h2{
+  margin: 15px;
+  font-family: Arial;
+  font-size: 24px;
+  text-align: center;
+}
+
+button {
+  border: 2px solid black;
+  margin: 30px 30px;
+  width: 150px;
+  height: 35px;
+  background-color: rgba(0, 0, 0, 0.562) ;
+  color:white;
+}
+
+
+.enviar{
+  position: relative;
+  margin: 4px 60px;
+}
+h3{
+  margin: 5px;
+  font-size: 22px;
+  font-family: Arial;
+}
+.cupom {
+  background-color: rgb(78, 78, 78);
+  text-align: center;
+
+}
+.informaçoes{
+  text-align: justify;
+  font-family: arial;
+  font-size: 16px;
+  background-color: rgb(78, 78, 78);
+}
+
+.res{
+  color: white;
+  text-align: justify;
+  font-family: arial;
+  font-size: 16px;
+  background-color: rgb(78, 78, 78);
+
+}
